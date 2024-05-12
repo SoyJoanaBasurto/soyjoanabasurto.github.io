@@ -16,9 +16,9 @@
         <h1 class="hotel-name">El Gran Hotel de México</h1>
         <nav>
             <ul>
-                 <li><a href="habitaciones.html">Habitaciones</a></li> <!-- Redirecciona a habitaciones.html -->
+                 <li><a href="Habitaciones.html">Habitaciones</a></li> <!-- Redirecciona a habitaciones.html -->
                     <li><a href="Contacto.html">Contacto</a></li> <!-- Redirecciona a contacto.html -->
-                    <li><a href="opciones.html">Opciones de otros hoteles para visitar</a></li> <!-- Redirecciona a opciones.html -->
+                    <li><a href="Opciones.html">Opciones de otros hoteles para visitar</a></li> <!-- Redirecciona a opciones.html -->
             </ul>
         </nav>
     </div>
